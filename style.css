@@ -23,6 +23,7 @@ body {
 #spons {
     margin: 6% auto 10%;
     width: 100%;
+    overflow-x: hidden;
 }
 
 #download {
